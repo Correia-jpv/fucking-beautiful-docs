@@ -72,6 +72,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * 🌎 [Svelte](svelte.dev/docs/introduction) - Svelte shifts as much work as possible out of the browser and into your build step. No more manual optimisations — just faster, more efficient apps. (contributed by <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [@0Ared](https://github.com/0Ared/)))
 * 🌎 [Supabase](supabase.com/docs) - Clean, well-organized docs with a sleek design. Covers a wide range of topics from getting started to advanced features, with clear navigation and code examples. (contributed by <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [tyaga001](https://github.com/tyaga001/)))
 * 🌎 [Neon Postgres Database](neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [tyaga001](https://github.com/tyaga001/)))
+* 🌎 [Awesome Code Docs](github.com/johnxie/awesome-code-docs) - Deep-dive tutorial collection with architecture diagrams and annotated internals for open-source AI coding agents, MCP tooling, and LLM frameworks. (contributed by [@johnxie](https://github.com/johnxie))
 
 ### Writing about Docs
 
