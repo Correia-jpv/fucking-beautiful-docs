@@ -16,7 +16,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [GitHub Developer Docs](https://docs.github.com/en) - I don't always get excited about accordion-based navigation, but when I do...
 * [Dropwizard](https://www.dropwizard.io/) - Beautiful and concise; another Bootstrap joint. (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).
 * [Riak Pipe README](https://github.com/basho/riak_pipe/blob/develop/README.md) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
-* [Learn You Some Erlang](https://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
+* [Learn You Some Erlang](https://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](https://learnyouahaskell.github.io/).)
 * [Django Documentation](https://docs.djangoproject.com/en/) - (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
 * [Clojuredocs.org](https://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
@@ -45,7 +45,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [gevent API Docs](https://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
 * [Riemann](https://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Vagrant](https://www.vagrantup.com/docs/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
-* [Wolfram Language](https://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
+* [Wolfram Language](https://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](https://github.com/troytop))
 * [Lisp Flavored Erlang: Quick Start](https://lfe.gitbooks.io/quick-start/content/) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux))
 * [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
 * [Packer Documentation](https://www.packer.io/docs) - These are just lovely.
@@ -70,7 +70,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [FastAPI](https://fastapi.tiangolo.com) - Python framework for building APIs with beautiful and complete documentation. (contributed by [@jrwaine](https://github.com/jrwaine))
 * [Circles, Sines and Signals](https://jackschaedler.github.io/circles-sines-signals/) - A Compact Primer on Digital Signal Processing. (contributed by [@PharkMillups](https://github.com/PharkMillups))
 * [PostgreSQL](https://www.postgresql.org/docs/current/index.html) - One of the most reliable sets of documentation available. There is rarely a need to go outside the documentation. (contributed by [@dalryan](https://github.com/dalryan))
-* [Svelte](https://svelte.dev/docs/introduction) - Svelte shifts as much work as possible out of the browser and into your build step. No more manual optimisations — just faster, more efficient apps. (contributed by [@0Ared](https://github.com/0Ared/))
+* [Svelte](https://svelte.dev/docs/introduction) - Svelte shifts as much work as possible out of the browser and into your build step. No more manual optimisations — just faster, more efficient apps.
 * [Supabase](https://supabase.com/docs) - Clean, well-organized docs with a sleek design. Covers a wide range of topics from getting started to advanced features, with clear navigation and code examples. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Neon Postgres Database](https://neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Ava CMS](https://ava.addy.zone/docs) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings. (contributed by [adamgreenough](https://github.com/adamgreenough))
